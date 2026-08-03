@@ -62,6 +62,10 @@ the crypto bot, a stop-loss slippage bug in the options bot) alongside the
 fixes, because those are as much the point of this project as the strategies
 themselves.
 
+## Posts
+
+- [I had an AI agent build 3 trading bots. It was losing to HFT before it even started.](posts/01-hft-losing-before-we-started.md)
+
 ## Getting started
 
 Each bot folder has its own setup instructions. In short, for any of them:
