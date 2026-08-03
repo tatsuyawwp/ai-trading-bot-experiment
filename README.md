@@ -64,7 +64,7 @@ themselves.
 
 ## Posts
 
-- [I had an AI agent build 3 trading bots. It was losing to HFT before it even started.](posts/01-hft-losing-before-we-started.md)
+- [I had an AI agent build 3 trading bots. It was losing to HFT before it even started.](posts/01-hft-losing-before-we-started.md) ([also on dev.to](https://dev.to/tatsuyawwp/i-had-an-ai-agent-build-3-trading-bots-it-was-losing-to-hft-before-it-even-started-1kia))
 
 ## Getting started
 
