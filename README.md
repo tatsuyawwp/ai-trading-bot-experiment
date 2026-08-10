@@ -66,6 +66,8 @@ themselves.
 
 - [I had an AI agent build 3 trading bots. It was losing to HFT before it even started.](posts/01-hft-losing-before-we-started.md) ([also on dev.to](https://dev.to/tatsuyawwp/i-had-an-ai-agent-build-3-trading-bots-it-was-losing-to-hft-before-it-even-started-1kia))
 
+- [Trading the Gap: How We Built a 91% Win-Rate Basis Bot After a 217% Buy-and-Hold Reality Check](posts/02-trading-the-gap-how-we-built-a-91-win-rate-basis-bot-after-a.md) ([also on dev.to](https://dev.to/tatsuyawwp/trading-the-gap-how-we-built-a-91-win-rate-basis-bot-after-a-217-buy-and-hold-reality-check-1idl))
+
 ## Getting started
 
 Each bot folder has its own setup instructions. In short, for any of them:
