@@ -68,6 +68,8 @@ themselves.
 
 - [Trading the Gap: How We Built a 91% Win-Rate Basis Bot After a 217% Buy-and-Hold Reality Check](posts/02-trading-the-gap-how-we-built-a-91-win-rate-basis-bot-after-a.md) ([also on dev.to](https://dev.to/tatsuyawwp/trading-the-gap-how-we-built-a-91-win-rate-basis-bot-after-a-217-buy-and-hold-reality-check-1idl))
 
+- [My Trading Bot Skipped 28 Trades Because I Ignored Volatility on a Tiny Real-Money Budget](posts/06-my-trading-bot-skipped-28-trades-because-i-ignored-volatilit.md) ([also on dev.to](https://dev.to/tatsuyawwp/my-trading-bot-skipped-28-trades-because-i-ignored-volatility-on-a-tiny-real-money-budget-4mmd))
+
 ## Getting started
 
 Each bot folder has its own setup instructions. In short, for any of them:
